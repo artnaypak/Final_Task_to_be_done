@@ -1,0 +1,15 @@
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\bin\Debug\net6.0\Task_Array.exe
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\bin\Debug\net6.0\Task_Array.deps.json
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\bin\Debug\net6.0\Task_Array.runtimeconfig.json
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\bin\Debug\net6.0\Task_Array.dll
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\bin\Debug\net6.0\Task_Array.pdb
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\Task_Array.csproj.AssemblyReference.cache
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\Task_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\Task_Array.AssemblyInfoInputs.cache
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\Task_Array.AssemblyInfo.cs
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\Task_Array.csproj.CoreCompileInputs.cache
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\Task_Array.dll
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\refint\Task_Array.dll
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\Task_Array.pdb
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\Task_Array.genruntimeconfig.cache
+C:\Users\naypa\OneDrive\Рабочий стол\GeekBrains\5_Итоговая работа\Task_Array\obj\Debug\net6.0\ref\Task_Array.dll
